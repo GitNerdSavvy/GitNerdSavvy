@@ -1,7 +1,7 @@
 
-<h2  align="center">
+<h3  align="center">
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" widht="100%" height="300px"/>
-</h2>
+</h3>
 
 <h2 align="left">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" align="center" height="30px"/>! My name is Sanjeev Yadav and I'm a Full Stack Developer</h2>
 
@@ -12,21 +12,24 @@
   <img width="20px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitnerdsavvy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="180" alt="languages graph"  />
 </div>
+<div align="center">
+<br clear="both">
 
-###
+<img src="https://raw.githubusercontent.com/gitnerdsavvy/gitnerdsavvy/output/snake.svg"  alt="Snake animation"  />
+
+</div>
 <img align="right" height="250"  src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" align="center" height="30px"/>  Daily grind</h2>
-
-<div display="flex">
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" align="center" height="30px"/>  Daily grind</h3>
+<div display="flex" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" height="140" alt="coffee logo"  />
-  <img width="62" />
+  <img width="162" />
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="140" alt="code logo"  />
 </div>
 
 
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" align="center" height="30px"/>I code with</h2>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" align="center" height="30px"/>I code with</h3>
 
 
 ###
@@ -80,10 +83,5 @@
 <img height="120px"/>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1px"/>
 
-uses: Platane/snk/svg-only@v3
-  with:
-    github_user_name: GitNerdSavvy
-    outputs: |
-      dist/github-snake.svg
-
+###
 ###
