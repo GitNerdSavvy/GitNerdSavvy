@@ -1,3 +1,8 @@
+
+<h2  align="center">
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" widht="100%" height="300px"/>
+</h2>
+
 <h2 align="left">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" align="center" height="30px"/>! My name is Sanjeev Yadav and I'm a Full Stack Developer</h2>
 
 
