@@ -16,7 +16,7 @@
 ###
 <img align="right" height="250"  src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
-<h2 align="left">My Life  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" align="center" height="30px"/></h2>
+<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" align="center" height="30px"/>  Daily grind</h2>
 
 <div display="flex">
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" height="140" alt="coffee logo"  />
@@ -26,7 +26,7 @@
 
 
 
-<h2 align="left">I code with</h2>
+<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" align="center" height="30px"/>I code with</h2>
 
 
 ###
