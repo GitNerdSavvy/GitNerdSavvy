@@ -3,9 +3,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitnerdsavvy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gitnerdsavvy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="180" alt="stats graph"  />
   <img width="20px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitnerdsavvy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitnerdsavvy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ###
@@ -63,7 +63,7 @@
 
 
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" align="center" height="30px"/>   My Stats :</h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" align="center" height="30px"/>   My Stats :</h3>
 
 ###
 
