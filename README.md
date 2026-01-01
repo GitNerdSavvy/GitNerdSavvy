@@ -71,60 +71,49 @@
 
 
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" align="center" height="30px"/>   My Stats :</h3>
+
 
 ###
-<h3 align="left">Coding And Professional Profiles</h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" align="center" height="30px"/>   Profiles :</h3>
+<br/>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/sanjeev-yadav-dev/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/sanjeev-yadav-dev/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanjeev Yadav LinkedIn" height="40" width="40" />
   </a>
   <img width="12" />
-
-  <a href="https://leetcode.com/u/aLazyCoder/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://leetcode.com/u/aLazyCoder/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode aLazyCoder" height="40" width="40" />
   </a>
   <img width="12" />
-
-  <a href="https://www.geeksforgeeks.org/profile/nerdsavvy001" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  <a href="https://www.geeksforgeeks.org/profile/nerdsavvy001" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks nerdsavvy001" height="40" width="40" />
   </a>
   <img width="12" />
-
-  <a href="https://codeforces.com/profile/aLazyCoderr" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  <a href="https://codeforces.com/profile/aLazyCoderr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces aLazyCoderr" height="40" width="40" />
   </a>
   <img width="12" />
-
-  <a href="https://www.codechef.com/users/a1azy6oder" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+  <a href="https://www.codechef.com/users/a1azy6oder" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" border="2px white" alt="CodeChef a1azy6oder" height="40" width="40" />
   </a>
   <img width="12" />
-
-  <a href="https://www.hackerrank.com/profile/sanjeev8400yadav" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  <a href="https://www.hackerrank.com/profile/sanjeev8400yadav" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank sanjeev8400yadav" height="40" width="40" />
   </a>
   <img width="12" />
-
-  <a href="https://atcoder.jp/users/aLazyCoder" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/atcoder.svg" alt="AtCoder" height="30" width="40" />
+  <a href="https://atcoder.jp/users/aLazyCoder" target="blank">
+    <img align="center" src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder aLazyCoder" height="40" width="40" />
   </a>
-  <img width="12" />
-
-  <a href="https://codolio.com/profile/aLazyCoder" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codio.svg" alt="Codolio" height="30" width="40" />
-  </a>
-  <img width="12" />
-
-  <a href="https://sanjeev-yadav-portfolio.netlify.app/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Portfolio Website" height="30" width="40" />
-  </a>
+  
 </p>
+<img height="120px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1px"/>
+
+###
 
 
-
-
-
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" align="center" height="30px"/>   My Stats :</h3>
 
 ###
 <div align="center">
